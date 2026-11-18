@@ -23,9 +23,6 @@ Services I used were EC2 instances, IAM user groups, users, and policies. Key co
 
 This project took me approximately 45 minutes to complete. The most challenging part was the policies. It was most rewarding to test and see the policies worked and denied access to an important instance.
 
-### ❤️ Thanks for doing this project!
-
-I chose to do this project today because I am trying to become more comfortable in the cloud. Something that would make learning with NextWork even better is I dont know it was pretty easy and helped me learn alot.
 
 ## Tags
 
